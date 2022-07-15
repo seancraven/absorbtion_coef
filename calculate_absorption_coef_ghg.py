@@ -8,3 +8,4 @@
     and building a database after that enables much faster 
     atmospheric model calculations after initial setup. 
     '''
+    import hapi
